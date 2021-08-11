@@ -1,5 +1,5 @@
 # Binary Search and Red Black Trees
-This project consists of implementing binary seach tree and red-black tree. 
+This project consists of implementing [**binary seach tree (BST)**](https://www.geeksforgeeks.org/binary-search-tree-data-structure/) and [**red-black tree (RB tree)**](https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/) 
 
 ### class IntEntry 
 IntEntry serves as a node stored in the binary search tree or the red-black tree. This node contains
