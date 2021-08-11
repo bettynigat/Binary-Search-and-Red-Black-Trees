@@ -31,7 +31,7 @@ in the tree, it returns false, After removal, all red-black tree properties must
 
 ### Performance difference between BST and RB trees
 The RB tree is a self-balancing tree while the BST is not. For example, let’s say our input is the
-sequence of words that goes like 1,2,3…….,999,1000. If we use BST to insert those key values,
+sequence of words that goes like 1,2,3……,999,1000. If we use BST to insert those key values,
 they will be stored in a single chain of 1000 elements. (gives a skewed shape) In this case, searching and removing entries takes a linear time that is proportional
 to the number of inputs. For large input sizes of such data type, this could be a very slow
 process.
